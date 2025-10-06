@@ -1,0 +1,11 @@
+streamlit==1.37.1
+plotly==5.23.0
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.11.4
+ccxt==4.3.98
+ta==0.11.0
+cryptography==42.0.8
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.8.2
